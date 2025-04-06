@@ -65,11 +65,12 @@ paso 5: eliminacion de archivo
 
 paso 6: eliminacion de carpeta
 ![ver en que usuario estoy](images/image6.png)
+
 paso 7: creacion de historial
-![ver en que usuario estoy](images/image7.png)
+![ver en que usuario estoy](images/paso7.png)
 
 paso 8: Verificacion del tutorial
-![ver en que usuario estoy](images/image8.png)
+![ver en que usuario estoy](images/paso8.png)
 
 
 ## 9. Resultados esperados:
