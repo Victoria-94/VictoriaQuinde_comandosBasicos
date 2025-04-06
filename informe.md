@@ -46,14 +46,16 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
   
 ## 8. Procedimiento
 
-Paso 1: ver en que usuario estoy
+Paso 1: ver en que usuario estoy ![Descripción de la imagen](images/image1.jpg)
+
 
 Paso 2: creacion de directorio
 paso 3: creacion de archivos
 paso 4: modificacion de archivos(nombre, contenido, ruta)
-paso 5: eliminaicion de archivo
+paso 5: eliminacion de archivo
 paso 6: eliminacion de carpeta
 paso 7: creacion de historial
+paso 8: Verificacion del tutorial
 
 Figura 1-1. Diagrama de contenedores.
 Las figuras un ancho máximo de 800px
