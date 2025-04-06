@@ -46,7 +46,7 @@ Para realizar esta practica el estudiante necesita tener claro los siguientes te
   
 ## 8. Procedimiento
 
-Paso 1: ver en que usuario estoy ![Descripción de la imagen](images/image1.jpg)
+Paso 1:  ![ver en que usuario estoy](images/image1.png)
 
 
 Paso 2: creacion de directorio
