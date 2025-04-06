@@ -85,3 +85,12 @@ Al finalizar esta practica se pudo evidenciar la importancia de la practica de c
 - Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). Apress. https://git-scm.com/book/en/v2
 
 - Ghazal, B. (2020). Linux basics for hackers: Getting started with networking, scripting, and security in Kali. No Starch Press.
+
+
+
+audio:
+
+<audio controls>
+  <source src="media/nota.ogg" type="audio/ogg">
+ 
+</audio>
